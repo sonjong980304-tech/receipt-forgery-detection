@@ -1,8 +1,5 @@
 # 위조 영수증 탐지 (Receipt Forgery Detection)
 
-과목: 이미지 딥러닝  
-학번: 20226496  
-이름: 손규영  
 데이터 링크:https://www.kaggle.com/datasets/nikita2998/find-it-again-dataset/data
 ---
 
